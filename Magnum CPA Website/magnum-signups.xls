@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"><Worksheet ss:Name="Sign Ups"><Table><Row><Cell><Data ss:Type="String">Full Name</Data></Cell><Cell><Data ss:Type="String">Email</Data></Cell><Cell><Data ss:Type="String">Password</Data></Cell><Cell><Data ss:Type="String">Sign-up Date</Data></Cell></Row><Row><Cell><Data ss:Type="String">Glenn Matias</Data></Cell><Cell><Data ss:Type="String">glenn@magnumcpa.com</Data></Cell><Cell><Data ss:Type="String">123456</Data></Cell><Cell><Data ss:Type="String">6/19/2026, 3:07:27 PM</Data></Cell></Row></Table></Worksheet></Workbook>
